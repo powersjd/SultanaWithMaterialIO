@@ -1,0 +1,14 @@
+{
+    "projects": {
+        "default": "sultana-7f06a"
+    },
+    "targets": {
+        "sultana-7f06a": {
+            "hosting": {
+                "home": [
+                    "sultana-7f06a"
+                ]
+            }
+        }
+    }
+}
